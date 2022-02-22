@@ -1,0 +1,35 @@
+{
+    "name": "clean-dark-orange-theme",
+    "displayName": "Tema Preto e Laranja simples",
+    "description": "Tema Preto simples com detalhes Laranjas e Amarelos...",
+    "version": "1.0.0",
+    "publisher":"PedroBarbosa",
+    "keywords": [
+        "theme",
+        "tema",
+        "dark theme",
+        "tema preto",
+        "tema laranja",
+        "laranja",
+        "Pedro Barbosa",
+        "PedroBarbosa",
+        "orange",
+        "orange theme",
+        "yellow"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark: Orange Based",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Orange Based-color-theme.json"
+            }
+        ]
+    }
+}
